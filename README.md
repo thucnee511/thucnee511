@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/thucnee511">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=1&pause=1000&color=D25D9D&center=true&vCenter=true&multiline=true&width=435&lines=|++Thucnee++|" alt="Thucnee"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=D25D9D&center=true&vCenter=true&width=435&lines=%7C+Thucnee+%7C;%7C+Neru+%7C" alt="Thucnee"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/thucnee511">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=4000&pause=1000&color=D25D9D&center=true&vCenter=true&width=435&lines=Web+and+application+development+learner;Able to design UI/UX;Always+learn+new+things"/>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=D25D9D&center=true&vCenter=true&width=435&lines=Web+and+application+development+learner;Able to design UI/UX;Always+learn+new+things"/>
   </a>
 </p>
 <p align="center">
