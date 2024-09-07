@@ -58,7 +58,6 @@
       <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
       <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF?&logo=vite&logoColor=white&style=for-the-badge">
       <img alt="Webpack" src="https://img.shields.io/badge/webpack-8dd6f9?&logo=webpack&logoColor=black&style=for-the-badge">
-      <img alt="Apache" src="https://img.shields.io/badge/apache-d22128?&logo=apache&logoColor=white&style=for-the-badge">
       <img alt="Apache Ant" src="https://img.shields.io/badge/apache_ant-A81C7D?&logo=apacheant&logoColor=white&style=for-the-badge">
       <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
     </p>
@@ -74,11 +73,6 @@
     <p >
       <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white&style=for-the-badge">
       <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge">
-      <img alt="Adobe Lightroom" src="https://img.shields.io/badge/adobe_lightroom-31A8FF?&logo=adobelightroom&logoColor=white&style=for-the-badge">
-      <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe_photoshop-31A8FF?&logo=adobephotoshop&logoColor=white&style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/adobe_illustrator-FF9A00?&logo=adobeillustrator&logoColor=white&style=for-the-badge">
-      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge">
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white&style=for-the-badge">
       <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white&style=for-the-badge">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
@@ -90,6 +84,7 @@
       <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
       <img alt="Apache Netbeans IDE" src="https://img.shields.io/badge/apache_netbeans_ide-1B6AC6?&logo=apachenetbeanside&logoColor=white&style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/intellij_idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     </p>
 </p>
 <h2 align="center">📊 Stats and Activity</h2>
