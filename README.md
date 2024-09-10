@@ -53,6 +53,10 @@
       <img alt="Swagger" src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=black&style=for-the-badge">
       <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
       <img alt="Taildwind CSS" src="https://img.shields.io/badge/tailwind_css-%2306B6D4?&logo=tailwindcss&logoColor=fafafa&style=for-the-badge">
+      <img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
+      <img alt="Expo" src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+      <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+      <img alt="React Native" src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
       <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F?&logo=spring&logoColor=fafafa&style=for-the-badge">
       <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F?&logo=springboot&logoColor=fafafa&style=for-the-badge">
       <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
