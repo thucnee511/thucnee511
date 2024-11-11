@@ -49,6 +49,8 @@
       <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge">
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white&style=for-the-badge">
+      <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+      <img alt="TypeORM" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm">
       <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=for-the-badge">
       <img alt="Swagger" src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=black&style=for-the-badge">
       <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
@@ -64,7 +66,6 @@
       <img alt="Webpack" src="https://img.shields.io/badge/webpack-8dd6f9?&logo=webpack&logoColor=black&style=for-the-badge">
       <img alt="Apache Ant" src="https://img.shields.io/badge/apache_ant-A81C7D?&logo=apacheant&logoColor=white&style=for-the-badge">
       <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
-      <img alt="NestJS" src="https://img.shields.io/badge/nestjs?style=for-the-badge&logo=nestjs&logoColor=E0234E">
     </p>
     <h3 >🗄️ Databases and Cloud Hosting</h3>
     <p >
@@ -72,6 +73,10 @@
       <img alt="Firebase" src="https://img.shields.io/badge/firebase-DD2C00?&logo=firebase&logoColor=white&style=for-the-badge">
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge">
+      <img alt="PostgresSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img alt="Portainer" src="https://img.shields.io/badge/portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
       <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge">
     </p>
     <h3 >💻 Software and Tools</h3>
