@@ -64,6 +64,7 @@
       <img alt="Webpack" src="https://img.shields.io/badge/webpack-8dd6f9?&logo=webpack&logoColor=black&style=for-the-badge">
       <img alt="Apache Ant" src="https://img.shields.io/badge/apache_ant-A81C7D?&logo=apacheant&logoColor=white&style=for-the-badge">
       <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
+      <img alt="NestJS" src="https://img.shields.io/badge/nestjs?style=for-the-badge&logo=nestjs&logoColor=E0234E">
     </p>
     <h3 >🗄️ Databases and Cloud Hosting</h3>
     <p >
