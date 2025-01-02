@@ -112,4 +112,13 @@
   </p>
   <h3 align="center">💻 Wakatime Stats</h3>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```all_time
+From: 25 December 2024 - To: 01 January 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
