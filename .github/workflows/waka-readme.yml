@@ -33,5 +33,5 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Neru
+          AUTHOR_NAME: Thucnee
           AUTHOR_EMAIL: ngocngocthuc@gmail.com
