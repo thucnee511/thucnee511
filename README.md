@@ -114,16 +114,14 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-Total Time: 14 hrs 51 mins
+Total Time: 14 hrs 54 mins
 
-HTML         8 hrs 15 mins   >>>>>>>>>>>>>>-----------   55.59 %
-CSS          4 hrs 26 mins   >>>>>>>------------------   29.89 %
-JavaScript   1 hr 53 mins    >>>----------------------   12.71 %
-YAML         10 mins         -------------------------   01.21 %
-Markdown     5 mins          -------------------------   00.59 %
-Other        0 secs          -------------------------   00.01 %
+HTML         8 hrs 15 mins   >>>>>>>>>>>>>------------   53.33 %
+CSS          4 hrs 26 mins   >>>>>>>------------------   28.67 %
+JavaScript   1 hr 53 mins    >>>----------------------   12.20 %
+Other        34 mins         >------------------------   03.75 %
 ```
 
 <!--END_SECTION:waka-->
