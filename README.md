@@ -114,13 +114,13 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 6 hrs 12 mins
+Total Time: 3 hrs 50 mins
 
-HTML         3 hrs 50 mins   >>>>>>>>>>>>>>-----------   55.87 %
-JavaScript   1 hr 9 mins     >>>>---------------------   16.94 %
-Other        40 mins         >>-----------------------   09.71 %
+SQL          2 hrs 4 mins    >>>>>>>>>>>--------------   44.68 %
+C#           54 mins         >>>>>--------------------   19.61 %
+Other        48 mins         >>>>---------------------   17.35 %
 ```
 
 <!--END_SECTION:waka-->
