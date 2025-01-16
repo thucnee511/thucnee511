@@ -114,13 +114,14 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Total Time: 4 hrs 24 mins
+Total Time: 4 hrs 21 mins
 
-SQL          2 hrs 4 mins    >>>>>>>>>>---------------   39.79 %
-C#           1 hr 22 mins    >>>>>>>------------------   26.43 %
-Other        48 mins         >>>>---------------------   15.45 %
+SQL          2 hrs 4 mins    >>>>>>>>>>>--------------   45.28 %
+C#           1 hr 22 mins    >>>>>>>>-----------------   30.07 %
+Markdown     45 mins         >>>>---------------------   16.45 %
+Other        13 mins         >------------------------   04.94 %
 ```
 
 <!--END_SECTION:waka-->
