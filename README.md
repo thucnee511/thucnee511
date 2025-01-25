@@ -114,18 +114,13 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
-Total Time: 4 hrs 5 mins
+Total Time: 32 mins
 
-C#           3 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>-----   79.47 %
-JSON         22 mins         >>-----------------------   09.34 %
-SQL          13 mins         >------------------------   05.48 %
-Markdown     7 mins          >------------------------   03.04 %
-Git Config   3 mins          -------------------------   01.28 %
-Docker       2 mins          -------------------------   00.82 %
-XML          1 min           -------------------------   00.51 %
-Other        0 secs          -------------------------   00.06 %
+C#    31 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.86 %
+XML   0 secs          -------------------------   01.36 %
+SQL   0 secs          -------------------------   00.78 %
 ```
 
 <!--END_SECTION:waka-->
