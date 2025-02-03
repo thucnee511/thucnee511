@@ -114,14 +114,12 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Total Time: 1 hr
+Total Time: 10 mins
 
-C#       51 mins         >>>>>>>>>>>>>>>>>>>>>>---   86.35 %
-Binary   7 mins          >>>----------------------   12.36 %
-JSON     0 secs          -------------------------   00.98 %
-Other    0 secs          -------------------------   00.31 %
+C#       7 mins          >>>>>>>>>>>>>>>>>--------   66.05 %
+Binary   3 mins          >>>>>>>>-----------------   33.95 %
 ```
 
 <!--END_SECTION:waka-->
