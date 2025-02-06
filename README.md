@@ -114,11 +114,14 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 28 mins
 
-No activity tracked
+Java     36 mins         >>>>>>>>>>---------------   41.32 %
+XML      32 mins         >>>>>>>>>----------------   36.60 %
+C#       18 mins         >>>>>--------------------   21.12 %
+Kotlin   0 secs          -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->
