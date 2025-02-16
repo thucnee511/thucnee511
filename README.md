@@ -114,20 +114,20 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 February 2025 - To: 14 February 2025
+From: 08 February 2025 - To: 15 February 2025
 
-Total Time: 8 hrs 27 mins
+Total Time: 9 hrs 22 mins
 
-Java              3 hrs 16 mins   >>>>>>>>>>---------------   38.67 %
-XML               2 hrs 44 mins   >>>>>>>>-----------------   32.36 %
-C#                2 hrs 5 mins    >>>>>>-------------------   24.73 %
-JSON              6 mins          -------------------------   01.20 %
-Binary            3 mins          -------------------------   00.69 %
-Gradle            3 mins          -------------------------   00.63 %
-Groovy            2 mins          -------------------------   00.55 %
-Kotlin            2 mins          -------------------------   00.54 %
-Properties        2 mins          -------------------------   00.45 %
-Java Properties   0 secs          -------------------------   00.09 %
+Java              4 hrs 46 mins   >>>>>>>>>>>>>------------   51.02 %
+XML               3 hrs 19 mins   >>>>>>>>>----------------   35.51 %
+C#                54 mins         >>-----------------------   09.65 %
+JSON              6 mins          -------------------------   01.08 %
+Binary            3 mins          -------------------------   00.62 %
+Gradle            3 mins          -------------------------   00.56 %
+Groovy            2 mins          -------------------------   00.50 %
+Kotlin            2 mins          -------------------------   00.49 %
+Properties        2 mins          -------------------------   00.40 %
+Java Properties   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
