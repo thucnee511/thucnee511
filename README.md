@@ -114,20 +114,16 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Total Time: 8 hrs 35 mins
+Total Time: 3 hrs 25 mins
 
-Java              4 hrs 56 mins   >>>>>>>>>>>>>>-----------   57.55 %
-XML               3 hrs 17 mins   >>>>>>>>>>---------------   38.34 %
-Kotlin            6 mins          -------------------------   01.22 %
-C#                5 mins          -------------------------   01.05 %
-Gradle            3 mins          -------------------------   00.62 %
-Groovy            2 mins          -------------------------   00.54 %
-Properties        2 mins          -------------------------   00.44 %
-GitIgnore file    0 secs          -------------------------   00.09 %
-Java Properties   0 secs          -------------------------   00.09 %
-Prolog            0 secs          -------------------------   00.05 %
+Java             2 hrs 17 mins   >>>>>>>>>>>>>>>>>--------   66.75 %
+XML              1 hr 4 mins     >>>>>>>>-----------------   31.29 %
+Kotlin           3 mins          -------------------------   01.72 %
+GitIgnore file   0 secs          -------------------------   00.22 %
+Properties       0 secs          -------------------------   00.01 %
+TOML             0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
