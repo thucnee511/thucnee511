@@ -114,16 +114,15 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 February 2025 - To: 24 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
-Total Time: 45 mins
+Total Time: 1 hr 21 mins
 
-Java             26 mins         >>>>>>>>>>>>>>-----------   57.34 %
-XML              15 mins         >>>>>>>>-----------------   33.77 %
-Kotlin           3 mins          >>-----------------------   07.80 %
-GitIgnore file   0 secs          -------------------------   01.02 %
-Properties       0 secs          -------------------------   00.06 %
-TOML             0 secs          -------------------------   00.01 %
+Java             26 mins         >>>>>>>------------------   29.75 %
+JSON             16 mins         >>>>>--------------------   19.32 %
+XML              15 mins         >>>>---------------------   17.52 %
+TypeScript       12 mins         >>>>---------------------   14.60 %
+Other            6 mins          >>-----------------------   07.54 %
 ```
 
 <!--END_SECTION:waka-->
