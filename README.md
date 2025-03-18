@@ -114,13 +114,13 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Total Time: 5 hrs 50 mins
+Total Time: 6 hrs 56 mins
 
-TypeScript        4 hrs 32 mins   >>>>>>>>>>>>>>>>>>>------   74.30 %
-Properties        22 mins         >>-----------------------   06.04 %
-Other             16 mins         >------------------------   04.43 %
+TypeScript        4 hrs 29 mins   >>>>>>>>>>>>>>>----------   60.66 %
+C#                57 mins         >>>----------------------   12.98 %
+Other             26 mins         >>-----------------------   06.08 %
 ```
 
 <!--END_SECTION:waka-->
