@@ -114,16 +114,16 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 March 2025 - To: 19 March 2025
+From: 13 March 2025 - To: 20 March 2025
 
-Total Time: 6 hrs 1 min
+Total Time: 8 hrs 58 mins
 
-C#                2 hrs 54 mins   >>>>>>>>>>>>-------------   46.88 %
-TypeScript        1 hr 29 mins    >>>>>>-------------------   24.05 %
-JSON              29 mins         >>-----------------------   07.80 %
-textmate          15 mins         >------------------------   04.06 %
-TOML              12 mins         >------------------------   03.46 %
-Other             10 mins         >------------------------   02.89 %
+C#                4 hrs 38 mins   >>>>>>>>>>>>>------------   50.19 %
+TypeScript        1 hr 29 mins    >>>>---------------------   16.15 %
+CSHTML            38 mins         >>-----------------------   06.92 %
+Binary            34 mins         >>-----------------------   06.23 %
+JSON              33 mins         >>-----------------------   06.07 %
+Other             15 mins         >------------------------   02.87 %
 ```
 
 <!--END_SECTION:waka-->
