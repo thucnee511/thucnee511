@@ -114,20 +114,20 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 April 2025 - To: 09 April 2025
+From: 03 April 2025 - To: 10 April 2025
 
-Total Time: 11 hrs 14 mins
+Total Time: 10 hrs 57 mins
 
-TypeScript                         7 hrs 45 mins   >>>>>>>>>>>>>>>>>--------   68.78 %
-Binary                             1 hr 5 mins     >>-----------------------   09.68 %
-CSS                                45 mins         >>-----------------------   06.78 %
-JSON                               43 mins         >>-----------------------   06.35 %
-C#                                 13 mins         -------------------------   01.92 %
-XML                                11 mins         -------------------------   01.64 %
-Razor                              7 mins          -------------------------   01.09 %
-YAML                               6 mins          -------------------------   00.99 %
-JavaScript                         4 mins          -------------------------   00.67 %
-Microsoft Visual Studio Solution   3 mins          -------------------------   00.58 %
+TypeScript                         7 hrs 28 mins   >>>>>>>>>>>>>>>>>--------   67.97 %
+Binary                             1 hr 5 mins     >>-----------------------   09.93 %
+CSS                                45 mins         >>-----------------------   06.96 %
+JSON                               43 mins         >>-----------------------   06.52 %
+C#                                 13 mins         -------------------------   01.97 %
+XML                                11 mins         -------------------------   01.68 %
+Razor                              7 mins          -------------------------   01.11 %
+YAML                               6 mins          -------------------------   01.02 %
+JavaScript                         4 mins          -------------------------   00.68 %
+Microsoft Visual Studio Solution   3 mins          -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
