@@ -114,14 +114,13 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Total Time: 22 hrs 3 mins
+Total Time: 19 hrs 30 mins
 
-TypeScript   20 hrs 6 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.81 %
-CSS          1 hr            >------------------------   04.54 %
-Bash         20 mins         -------------------------   01.55 %
-Other        19 mins         -------------------------   01.48 %
+TypeScript   18 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.89 %
+Bash         20 mins         -------------------------   01.75 %
+Other        20 mins         -------------------------   01.73 %
 ```
 
 <!--END_SECTION:waka-->
