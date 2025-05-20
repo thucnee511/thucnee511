@@ -114,13 +114,13 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 May 2025 - To: 18 May 2025
+From: 12 May 2025 - To: 19 May 2025
 
-Total Time: 32 hrs 42 mins
+Total Time: 29 hrs 53 mins
 
-TypeScript   30 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.92 %
-HTML         1 hr 5 mins     >------------------------   03.26 %
-Other        38 mins         -------------------------   01.94 %
+TypeScript   28 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.99 %
+HTML         1 hr 5 mins     >------------------------   03.55 %
+Other        45 mins         >------------------------   02.48 %
 ```
 
 <!--END_SECTION:waka-->
