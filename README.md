@@ -114,11 +114,17 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 1 min
 
-No activity tracked
+TypeScript   22 mins         >>>>>>>>>----------------   35.99 %
+JavaScript   19 mins         >>>>>>>>-----------------   31.22 %
+YAML         13 mins         >>>>>>-------------------   22.56 %
+Bash         3 mins          >------------------------   05.23 %
+Docker       2 mins          >------------------------   04.84 %
+Git          0 secs          -------------------------   00.14 %
+JSON         0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
