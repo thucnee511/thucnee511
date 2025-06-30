@@ -114,13 +114,14 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 June 2025 - To: 28 June 2025
+From: 22 June 2025 - To: 29 June 2025
 
-Total Time: 3 hrs 35 mins
+Total Time: 2 hrs 24 mins
 
-TypeScript   3 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.04 %
-Markdown     19 mins         >>-----------------------   08.75 %
-Other        4 mins          -------------------------   01.88 %
+TypeScript   2 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>---   86.41 %
+Markdown     19 mins         >>>----------------------   13.28 %
+Bash         0 secs          -------------------------   00.18 %
+Other        0 secs          -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
