@@ -114,15 +114,16 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
-Total Time: 1 hr 37 mins
+Total Time: 2 hrs 58 mins
 
-TypeScript   1 hr 33 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.18 %
-Bash         1 min           -------------------------   01.66 %
-CSS          0 secs          -------------------------   01.02 %
-Git Config   0 secs          -------------------------   01.02 %
-YAML         0 secs          -------------------------   00.12 %
+TypeScript   2 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.25 %
+Bash         2 mins          -------------------------   01.32 %
+CSS          0 secs          -------------------------   00.56 %
+Git Config   0 secs          -------------------------   00.56 %
+JavaScript   0 secs          -------------------------   00.26 %
+YAML         0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
