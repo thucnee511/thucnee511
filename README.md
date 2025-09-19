@@ -114,12 +114,12 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Total Time: 7 hrs 42 mins
+Total Time: 14 hrs 13 mins
 
-TypeScript   5 hrs 9 mins    >>>>>>>>>>>>>>>----------   61.60 %
-Other        39 mins         >>-----------------------   07.93 %
+TypeScript   10 hrs 59 mins  >>>>>>>>>>>>>>>>>>-------   73.15 %
+Other        47 mins         >------------------------   05.31 %
 ```
 
 <!--END_SECTION:waka-->
