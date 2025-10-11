@@ -114,15 +114,15 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 October 2025 - To: 09 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
-Total Time: 14 hrs 44 mins
+Total Time: 9 hrs 17 mins
 
-TypeScript   14 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.50 %
-Bash         9 mins          -------------------------   01.11 %
-YAML         9 mins          -------------------------   01.02 %
-JavaScript   2 mins          -------------------------   00.32 %
-Other        0 secs          -------------------------   00.03 %
+TypeScript   9 hrs           >>>>>>>>>>>>>>>>>>>>>>>>-   96.50 %
+YAML         9 mins          -------------------------   01.62 %
+Bash         4 mins          -------------------------   00.86 %
+JavaScript   2 mins          -------------------------   00.51 %
+Other        2 mins          -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
