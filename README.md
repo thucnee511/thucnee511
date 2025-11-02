@@ -114,11 +114,17 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 24 mins
 
-No activity tracked
+TypeScript   1 hr 34 mins    >>>>>>>>>>>>>>>>---------   65.34 %
+Markdown     15 mins         >>>----------------------   10.90 %
+JavaScript   14 mins         >>-----------------------   09.78 %
+JSON         12 mins         >>-----------------------   08.36 %
+CSS          4 mins          >------------------------   03.13 %
+TSConfig     3 mins          >------------------------   02.12 %
+HTML         0 secs          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
