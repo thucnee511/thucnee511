@@ -114,15 +114,12 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 1 hr 48 mins
+Total Time: 47 mins
 
-TypeScript   1 hr 3 mins     >>>>>>>>>>>>>>>----------   58.51 %
-SQL          21 mins         >>>>>--------------------   19.60 %
-Bash         18 mins         >>>>---------------------   16.64 %
-TSConfig     4 mins          >------------------------   04.05 %
-JSON         1 min           -------------------------   01.19 %
+TypeScript   35 mins         >>>>>>>>>>>>>>>>>>>------   75.43 %
+Bash         11 mins         >>>>>>-------------------   24.57 %
 ```
 
 <!--END_SECTION:waka-->
